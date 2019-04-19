@@ -6,10 +6,10 @@ PROJECT MADE BY:
 
 [KUNDUZ EFRONOVA](https://github.com/efronovak) 21600469 SECTION 2
 
+---------------------------------------------------------------------------
 
 `integer-count.c` invokation is as specified in the [project description](https://github.com/NaisilaPuka/libhash/blob/master/doc/Project_Description.pdf).
 
----------------------------------------------------------------------------
 Our test.c source file is tested through the following invokation example:
 	
 	./test.c N K T W
