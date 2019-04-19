@@ -9,7 +9,7 @@ libhash.a:  hash.c
 integer-count: integer-count.c
 	gcc -Wall -o integer-count integer-count.c -L. -lhash -lpthread
 
-test: test.c
+test: test.c hash.c
 	gcc -Wall -o test test.c -L. -lhash -lpthread
 
 clean: 
