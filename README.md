@@ -1,12 +1,10 @@
-CS342 PROJECT 2, SPRING 2019
----------------------------------------------------------------------------
+## CS342 PROJECT 2, SPRING 2019
+
 PROJECT MADE BY:
 
 [NAISILA PUKA](https://github.com/NaisilaPuka) 21600336 SECTION 2
 
 [KUNDUZ EFRONOVA](https://github.com/efronovak) 21600469 SECTION 2
-
----------------------------------------------------------------------------
 
 `integer-count.c` invokation is as specified in the [project description](https://github.com/NaisilaPuka/libhash/blob/master/doc/Project_Description.pdf).
 
