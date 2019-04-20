@@ -15,11 +15,14 @@ Our test.c source file is tested through the following invokation example:
 where for the value of N K T and W we use integers:
 
 N stands for size of hashtable
+
 K stands for number of locks (N has to be multiple of K)
+
 T stands for number of threads
+
 W stands for number of insertion operations performed per thread
 
-below is example of invokation
+Below is example of invokation
 
 	./test.c 100 5 10 150
 
