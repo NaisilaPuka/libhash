@@ -2,11 +2,11 @@
 
 PROJECT MADE BY:
 
-[NAISILA PUKA](https://github.com/NaisilaPuka) 21600336 SECTION 2
+[NAISILA PUKA](https://github.com/naisila) 21600336 SECTION 2
 
 [KUNDUZ EFRONOVA](https://github.com/efronovak) 21600469 SECTION 2
 
-`integer-count.c` invokation is as specified in the [project description](https://github.com/NaisilaPuka/libhash/blob/master/doc/Project_Description.pdf).
+`integer-count.c` invokation is as specified in the [project description](https://github.com/naisila/libhash/blob/master/doc/Project_Description.pdf).
 
 Our test.c source file is tested through the following invokation example:
 	
@@ -27,4 +27,4 @@ Below is example of invokation
 	./test.c 100 5 10 150
 
 Output will show the time spent to finish the operations in ms.
-Read more in our [libhash report](https://github.com/NaisilaPuka/libhash/blob/master/doc/LibHash_Report.pdf).
+Read more in our [libhash report](https://github.com/naisila/libhash/blob/master/doc/LibHash_Report.pdf).
